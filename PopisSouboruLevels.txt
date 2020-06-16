@@ -1,0 +1,10 @@
+===Popis souboru====
+"{" - startlevel
+"}" - endlevel
+"//d+" - 1 cislo pocet radku, 2 cislo pocet sloupcu, 3 pocet bonusu
+===Type of bricks===
+' '-empty
+# - BlueBrick(breakcount - 3)
++ - Redbreak(breakcount - 1)
+* - RedBrick with FireBall bonus
+@ - RedBrick with RacketWidthEncrease bonus
